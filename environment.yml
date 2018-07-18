@@ -1,0 +1,33 @@
+name: income
+channels:
+- defaults
+dependencies:
+- ca-certificates
+- certifi=2017.11.5
+- intel-openmp=2018.0.0
+- libcxx=4.0.1
+- libcxxabi=4.0.1
+- libedit=3.1
+- libffi=3.2.1
+- libgfortran=3.0.1
+- mkl=2018.0.1
+- ncurses=6.0
+- numpy=1.13.3
+- openssl=1.0.2n
+- pandas=0.21.1
+- pip=9.0.1
+- python=3.6.3
+- python-dateutil
+- pytz=2017.3
+- readline=7.0
+- scikit-learn=0.19.1
+- scipy=1.0.0
+- setuptools=36.5.0
+- six=1.11.0
+- sqlite=3.20.1
+- tk=8.6.7
+- wheel=0.30.0
+- xz=5.2.3
+- zlib=1.2.11
+prefix: /Users/apple/anaconda/envs/income
+
